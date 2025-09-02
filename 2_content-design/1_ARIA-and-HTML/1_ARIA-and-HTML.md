@@ -265,6 +265,9 @@ WAI đã phát triển 5 quy tắc giúp quyết định khi nào và cách sử
 
 ## 📚 Tài liệu tham khảo
 
+- **Article** [](https://web.dev/learn/accessibility/aria-html)
 - **Dev tool:** [Dev tool](https://developer.chrome.com/blog/full-accessibility-tree)
+- **Mozilla Accessibility Guideline:** [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- **5 Rules:** [Using ARIA](https://www.w3.org/TR/using-aria/)
 
 
